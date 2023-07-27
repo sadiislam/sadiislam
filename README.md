@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Sadiqul Islam(Zeehad)</h1>
+<h1 align="center">Hi 👋, I'm Md. Sadiqul Islam (Zeehad)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiislam&label=Profile%20views&color=0e75b6&style=flat" alt="sadiislam" /> </p>
 
 - 📫 How to reach me **sadi0islam0@gmail.com**
