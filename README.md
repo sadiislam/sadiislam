@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Sadiqul Islam (Zeehad)</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiislam&label=Profile%20views&color=0e75b6&style=flat" alt="sadiislam" /> </p>
+<h3 align="center">Programmer | CSE Undergrad | Digital Creator | ALP '23 Alumni | GSC '20 | GSHS '18 | Contributor at Google Map</h3>
+<a href=#><img src="contributions.svg"></a>
 
 - 📫 **sadi0islam0@gmail.com**
 
@@ -14,3 +15,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+Database
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+</p>
+
+
