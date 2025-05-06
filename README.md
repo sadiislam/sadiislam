@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Sadiqul Islam (Zeehad)</h1>
-<h3 align="center">Programmer | CSE Undergrad | Digital Creator | ALP '23 Alumni | GSC '20 | GSHS '18 | Contributor at Google Map</h3>
+<h3 align="center">Programmer | CSE Undergrad | Digital Creator | ALP '23 Alumni | GSC '20 | GSHS '18</h3>
 
 - 📫 **sadi0islam0@gmail.com**
 
